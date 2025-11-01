@@ -19,10 +19,13 @@ O diferencial da plataforma é que o transporte não será mais oferecido exclus
 
 É importante citar que as rotas definidas pela agência possuem guias de turismo, proporcionando uma experiência mais rica e informativa para os visitantes.
 
-A plataforma será dividida em dois aplicativos:
+A plataforma será dividida em três aplicativos:
 
 1. **Aplicativo para Turistas:** onde os turistas podem explorar pacotes turísticos, fazer reservas e escolher opções de transporte.
 2. **Aplicativo para Agências de Turismo e Motoristas:** onde as agências podem gerenciar suas ofertas e os motoristas independentes podem pedir seu cadastro para oferecer seus serviços após uma verificação de segurança.
+3. **Aplicativo para Motoristas Independentes:** onde os motoristas podem pedir seu cadastro e gerenciar suas disponibilidades, podendo aceitar pedidos de transporte dos turistas.
+
+A funcionalidade de turistas funciona de forma parecida com o BlaBlaCar, na qual o motorista escolha uma rota entregue pelo sistema e se comprometer a dirigir as pessoas que reservaram aquela rota naquele horário específico.
 
 Em relação a custos, a plataforma cobrará uma taxa fixa por reserva realizada, que será significativamente menor do que a taxa atual de R$3000,00 cobrada para veículos com mais de 10 pessoas. Isso permitirá que as agências de turismo ofereçam pacotes mais acessíveis, tornando o turismo na região mais atrativo.
 
