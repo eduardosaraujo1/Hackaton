@@ -32,8 +32,41 @@ Isso não apenas promoverá o turismo sustentável na região, mas também trar�
 
 ### Validação de mercado
 
-Para validar nossa solução, realizamos as seguintes pesquisas:
-[COMPLETAR!]
+#### Tarifas Mongaguá
+
+Segundo a Lei Municipal 2.339/2009 e a Lei Municipal 2.568/2012, o acesso, circulação e estacionamento de veículos de fretamento turístico (ônibus, microonibus e vans), com capacidade acima de 10 passageiros, provindos de outros municípios, somente serão permitidos nos limites de Mongaguá, com a concessão de alvará de licença, emitida pela Diretoria Municipal de Administração.
+
+| VEICULOS     | TAXAS     |
+| ------------ | --------- |
+| Ônibus       | R$ 999,54 |
+| Micro-ônibus | R$ 814,44 |
+| Vans         | R$ 629,34 |
+
+#### Tarifas Itanhaém
+
+Além das altas tarifas, a regulamentação exige que os veículos de fretamento obtenham uma Autorização para Circulação de Veículos de Fretamento, emitida pela Secretaria Municipal de Turismo. Para isso, é necessário seguir um processo burocrático, que inclui:
+
+-   Preenchimento de um formulário específico disponível online;
+-   Listagem completa de passageiros;
+-   Pagamento das taxas via transferência bancária ou PIX;
+-   Envio dos documentos e comprovantes por e-mail, com antecedência mínima de cinco dias úteis.
+
+A autorização, que tem validade de apenas sete dias, permite a entrada no município e permanência no estacionamento do destino, mas não garante a circulação dos veículos pela cidade, limitando ainda mais a experiência dos turistas. O descumprimento das regras pode resultar em uma multa de 500 UF’s, ou R$ 2.350,00.
+
+#### Tarifas PERUÍBE
+
+Seção II,
+Da Solicitação de Autorização de Acesso,
+Art. 11- A solicitação de autorização de acesso deverá ser feita pelo interessado, à Secretaria Municipal de Turismo, Cultura e Esportes, em formulário próprio. § 1º- O requerimento deve ser acompanhado das seguintes informações:
+IX- comprovante de recolhimento da tarifa correspondente;
+
+### Inspiração - Destinos Inteligentes
+
+> OBS: Ver com o professor se essa seção deve ser incluída no pitch
+
+O projeto "Destinos Inteligentes" foi iniciado de forma piloto com a participação de duas cidades de cada região do Brasil, ou seja, sua implantação inicial contemplou todas as cinco grandes regiões do país. As cidades piloto foram: Rio Branco (AC) e Palmas (TO) na região Norte; Recife (PE) e Salvador (BA) no Nordeste; Campo Grande (MS) e Brasília (DF) no Centro-Oeste; Florianópolis (SC) e Curitiba (PR) na região Sul; e Rio de Janeiro (RJ) e Angra dos Reis (RJ) na região Sudeste. Isso significa que o projeto não teve uma única região de início, mas sim uma implementação simultânea diversificada em todas as regiões brasileiras para apoiar a transformação dos destinos turísticos locais com foco em inovação, sustentabilidade e melhor experiência para visitantes e gestores.
+
+Os benefícios proporcionados pelo site e pelo sistema incluem a melhoria na experiência do turista, que pode acessar informações como mapas interativos, calendário de eventos, opções de hospedagem e alimentação, rotas personalizadas e detalhes sobre acessibilidade, tudo em vários idiomas e geolocalizado. Para gestores, o sistema fornece uma visão consolidada para melhor planejamento, estudos de demanda e gestão do Plano Diretor do Turismo, ajudando na tomada de decisões estratégicas. Além disso, a startup Destinos Inteligentes foi reconhecida como a GovTech mais inovadora do Brasil pelo programa de aceleração da EmbraturLab e já opera em diversos municípios brasileiros, expandindo seu impacto no setor.
 
 ### Arquitetura da solução
 
