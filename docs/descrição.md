@@ -1,4 +1,4 @@
-# Plataforma Integrada de Turismo da Baixada Santista Sul - Litoral Inteligente
+# Plataforma Integrada de Turismo da Baixada Santista Sul - Turistando
 
 ### Problema
 
@@ -32,13 +32,8 @@ Isso não apenas promoverá o turismo sustentável na região, mas também trar�
 
 ### Validação de mercado
 
-Para validar nossa solução, realizamos as seguintes perguntas para pessoas que já realizaram uma viagem turística:
-
-1. Você já visitou as cidades de Mongaguá, Itanhaém ou Peruíbe?
-2. Você já utilizou os serviços de uma agência de turismo para visitar essas cidades?
-3. Qual seria o valor máximo que você estaria disposto a pagar por um pacote turístico completo, incluindo transporte e hospedagem?
-4. Você estaria interessado em uma plataforma que ofereça pacotes turísticos integrados para essas cidades com opções de transporte flexíveis?
-5. E se você pudesse economizar quase metade do custo atual dos pacotes turísticos, você consideraria utilizar essa plataforma?
+Para validar nossa solução, realizamos as seguintes pesquisas:
+[COMPLETAR!]
 
 ### Arquitetura da solução
 
@@ -57,12 +52,3 @@ Os turistas poderão escolher entre os pacotes oferecidos, selecionar o plano de
 É esperado que os guias de turismo sejam contratados pelas agências para acompanhar os turistas durante as visitas aos pontos turísticos, e que estejam posicionados no local de destino no horário especificado.
 
 Ao selecionar um pacote turístico e o pacote, o turista poderá ver uma lista de motoristas independentes disponíveis para o horário escolhido e selecionar um deles para o transporte. Caso nenhum esteja disponível, o turista poderá optar por aguardar ou escolher outro horário ou pacote turístico.
-
-### Tecnologias utilizadas
-
--   Flutter para desenvolvimento dos aplicativos móveis.
--   SQLite para armazenamento local de dados e falsificação de login.
-
-### Observações
-
-Apenas o aplicativo para turistas será desenvolvido, com uma bottom navbar contendo as seções "Pontos turisticos", "Eventos" e "Rotas" e "Perfil".
