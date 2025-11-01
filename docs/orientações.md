@@ -10,6 +10,6 @@
 ### Roadmap
 
 -   [x] Documentar detalhes do projeto
--   [ ]
+-   [ ] Completar validação de mercado com dados quantitativos
 -   [ ] Validar projeto com dados (entrevista com Michele?)
 -   [ ] Fazer vídeo para demonstração do projeto (projeto pendente)
