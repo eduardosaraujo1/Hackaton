@@ -3,7 +3,7 @@
 ### Problema
 
 1. O turismo predatório é comum durante finais de semana e feriados, causando superlotação em pontos turísticos da baixada santista e prejudicando o meio ambiente local.
-2. Turistas perdem a oportunidade de conhecer o potencial turístico completo da região pois existe uma taxa de R$1000,00 para cada veículo com mais de 10 pessoas que entra em cada cidade (Mongaguá, Itanhaém e Peruíbe), o que encarece os pacotes turísticos oferecidos pelas agências de turismo e reduz a competitividade e o acesso das pessoas a esses planos.
+2. Turistas perdem a oportunidade de conhecer o potencial turístico completo da região pois existem taxas e multas municipais para cada veículo com mais de 10 pessoas que entra em cada cidade (Mongaguá, Itanhaém e Peruíbe). O que encarece os pacotes turísticos oferecidos pelas agências de turismo e reduz a competitividade e o acesso das pessoas a esses planos.
 
 ### Solução
 
@@ -34,9 +34,9 @@ Isso não apenas promoverá o turismo sustentável na região, mas também trar�
 
 #### Tarifas Mongaguá
 
-Segundo a Lei Municipal 2.339/2009 e a Lei Municipal 2.568/2012, o acesso, circulação e estacionamento de veículos de fretamento turístico (ônibus, microonibus e vans), com capacidade acima de 10 passageiros, provindos de outros municípios, somente serão permitidos nos limites de Mongaguá, com a concessão de alvará de licença, emitida pela Diretoria Municipal de Administração.
+Segundo a Lei Municipal 2.339/2009 e a Lei Municipal 2.568/2012, o acesso, circulação e estacionamento de veículos de fretamento turístico (ônibus, micro-ônibus e vans), com capacidade acima de 10 passageiros, provindos de outros municípios, somente serão permitidos nos limites de Mongaguá, com a concessão de alvará de licença, emitida pela Diretoria Municipal de Administração.
 
-| VEICULOS     | TAXAS     |
+| VEÍCULOS     | TAXAS     |
 | ------------ | --------- |
 | Ônibus       | R$ 999,54 |
 | Micro-ônibus | R$ 814,44 |
