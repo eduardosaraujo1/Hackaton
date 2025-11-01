@@ -7,4 +7,4 @@
 
 -   [x] Documentar detalhes do projeto
 -   [ ] Validar projeto com dados (entrevista com Michele?)
--   [ ] Fazer vídeo para demonstração do projeto
+-   [ ] Fazer vídeo para demonstração do projeto (projeto pendente)

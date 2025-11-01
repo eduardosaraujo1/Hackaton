@@ -7,83 +7,28 @@
 
 ### Solução
 
-Nossa equipe propõe o desenvolvimento de uma plataforma digital integrada que conecte turistas, agências de turismo, motoristas independentes e guias turísticos.
+Nossa equipe propõe o desenvolvimento de uma plataforma digital integrada que conecte pessoas, agências de turismo e motoristas independentes.
 
-A plataforma oferece três funcionalidades principais através de telas intuitivas:
+Essa plataforma permitirá que façamos parcerias com agências de turismo cadastradas na plataforma. Essas agências podem criar rotas personalizadas, selecionando pontos turísticos em todas as três cidades. A plataforma então divulgará essas rotas para os turistas, que poderão escolher e reservar pacotes turísticos completos.
 
-#### Telas do Aplicativo
+O diferencial da plataforma é que o transporte não será mais oferecido exclusivamente pelas agências de turismo. Em vez disso, os turistas serão transportados por motoristas independentes cadastrados na plataforma, que oferecerão serviços de transporte para as rotas selecionadas. Isso permitirá que os turistas escolham entre duas opções de transporte:
 
-1. **Atrativos (Pontos Turísticos)**
+-   **Atrativo/Ponto Turístico:** aluga um carro de até 8 lugares para visitar o pontos turísticos selecionados pelo turista. É uma viagem particular que deve ser agendada ao menos 24 horas antes.
+-   **Eventos:** aluga um carro de até 8 lugares para transporte em eventos especiais, como festivais ou celebrações locais. É uma viagem particular que deve ser agendada ao menos 24 horas antes.
+-   **Rotas:** aluga um carro de até 8 lugares para transporte em rotas definidas pelas agências de turismo em um horário definido. É uma viagem compartilhada com outros turistas.
 
-    - Listagem de todos os pontos turísticos disponíveis nas três cidades (Mongaguá, Itanhaém e Peruíbe)
-    - Informações detalhadas sobre cada atrativo
-    - Fotos, descrições e avaliações dos visitantes
+É importante citar que as rotas definidas pela agência possuem guias de turismo, proporcionando uma experiência mais rica e informativa para os visitantes.
 
-2. **Eventos**
+A plataforma será dividida em dois aplicativos:
 
-    - Calendário de eventos das cidades
-    - Festivais, shows, eventos culturais e esportivos
-    - Detalhes sobre data, local e como participar
+1. **Aplicativo para Turistas:** onde os turistas podem explorar pacotes turísticos, fazer reservas e escolher opções de transporte.
+2. **Aplicativo para Agências de Turismo e Motoristas:** onde as agências podem gerenciar suas ofertas e os motoristas independentes podem pedir seu cadastro para oferecer seus serviços após uma verificação de segurança.
 
-3. **Rotas**
-    - Rotas turísticas personalizadas criadas pelas agências de turismo
-    - Cada rota inclui múltiplos pontos turísticos distribuídos pelas três cidades
-    - Ao clicar em uma rota, o turista visualiza:
-        - Horário da saída e retorno
-        - Motorista designado
-        - Guia turístico (se incluído)
-        - Quantidade de vagas disponíveis
-        - Preço total do pacote
-        - Opção de pagamento integrado
-    - Após realizar o pagamento, a vaga é automaticamente ocupada e confirmada
+Em relação a custos, a plataforma cobrará uma taxa fixa por reserva realizada, que será significativamente menor do que a taxa atual de R$3000,00 cobrada para veículos com mais de 10 pessoas. Isso permitirá que as agências de turismo ofereçam pacotes mais acessíveis, tornando o turismo na região mais atrativo.
 
-#### Fluxo de Reserva
+No futuro, pretendemos pressionar os governos municipais para que adotem um sistema de selos de viagem unificados, permitindo que as agências de turismo adquiram selos integrados para as três cidades a um custo reduzido. Isso reduzirá ainda mais os custos operacionais e tornará os pacotes turísticos acessíveis nas formas de caminhão e van.
 
-1. O turista navega pelas rotas disponíveis
-2. Seleciona uma rota de interesse
-3. Visualiza todos os detalhes: horário, motorista, guia, vagas e preço
-4. Realiza o pagamento diretamente na tela
-5. Recebe confirmação imediata da reserva com a vaga ocupada
-
-#### Atores da Plataforma
-
--   **Turistas:** exploram atrativos, eventos e rotas, fazem reservas e pagamentos
--   **Agências de Turismo:** criam e gerenciam rotas turísticas integradas
--   **Motoristas Independentes:** oferecem serviços de transporte para as rotas
--   **Guias Turísticos:** acompanham os turistas nas rotas (quando incluídos)
-
-### Modelo de Negócio
-
-A plataforma cobrará uma taxa fixa por reserva realizada através do aplicativo. Esse modelo de receita permitirá:
-
--   Redução dos custos operacionais das agências de turismo
--   Preços mais acessíveis para os turistas
--   Descentralização do transporte, eliminando a necessidade de grandes veículos que pagam taxas de R$1000,00 por cidade
-
-### Impacto e Benefícios
-
-**Para os Turistas:**
-
--   Acesso facilitado a rotas turísticas integradas nas três cidades
--   Transparência total sobre horários, guias, motoristas e disponibilidade
--   Processo de reserva e pagamento simplificado em um único aplicativo
--   Preços mais competitivos
-
-**Para as Agências de Turismo:**
-
--   Plataforma de divulgação integrada
--   Redução de custos operacionais com transporte
--   Facilidade na gestão de rotas e reservas
--   Maior alcance de público
-
-**Para a Região:**
-
--   Turismo mais sustentável e distribuído
--   Redução da superlotação em pontos turísticos
--   Geração de emprego para motoristas e guias locais
--   Maior visibilidade dos eventos e atrativos das três cidades
-
-No futuro, pretendemos pressionar os governos municipais para que adotem um sistema de selos de viagem unificados, permitindo que as agências de turismo adquiram selos integrados para as três cidades a um custo reduzido. Esse modelo foi aplicado com sucesso em outras regiões, como o Parque Nacional do Iguaçu, onde a taxa de entrada é utilizada para a conservação ambiental e o desenvolvimento sustentável do turismo local.
+Isso não apenas promoverá o turismo sustentável na região, mas também trará benefícios econômicos para o município que, ao adotar uma taxa pelo uso do selo, poderá gerar receita adicional. Esse modelo foi aplicado com sucesso em outras regiões, como o Parque Nacional do Iguaçu, onde a taxa de entrada é utilizada para a conservação ambiental e o desenvolvimento sustentável do turismo local.
 
 ### Validação de mercado
 
@@ -99,48 +44,25 @@ Para validar nossa solução, realizamos as seguintes perguntas para pessoas que
 
 ![Plataforma Integrada de Turismo da Baixada Santista Sul - Litoral Inteligente](./images/diagram.png)
 
-#### Componentes do Sistema
+A plataforma é composta pelas seguintes partes:
 
-**1. Aplicativo do Turista**
+-   **Divulgação**: onde as agências de turismo podem divulgar seus pacotes turísticos integrados.
+-   **Transporte**: onde turistas podem escolher um plano e escolher entre motoristas independentes cadastrados na plataforma.
+-   **Motorista**: onde motoristas independentes podem se cadastrar e oferecer seus serviços de transporte.
 
--   **Tela de Atrativos:** navegação e descoberta de pontos turísticos
--   **Tela de Eventos:** calendário e informações sobre eventos das cidades
--   **Tela de Rotas:** visualização e reserva de rotas turísticas
--   Sistema de pagamento integrado
--   Confirmação e gerenciamento de reservas
+As agências poderão criar pacotes turísticos integrados, selecionando os pontos turísticos e os horários nos quais haverão guias disponíveis.
 
-**2. Painel das Agências de Turismo**
+Os turistas poderão escolher entre os pacotes oferecidos, selecionar o plano de transporte desejado no horário disponível e contratar guias de turismo, se desejado.
 
--   Criação de rotas turísticas
--   Seleção de pontos turísticos para cada rota
--   Definição de horários
--   Associação de motoristas e guias
--   Gestão de vagas e preços
--   Acompanhamento de reservas
+É esperado que os guias de turismo sejam contratados pelas agências para acompanhar os turistas durante as visitas aos pontos turísticos, e que estejam posicionados no local de destino no horário especificado.
 
-**3. Módulo de Motoristas**
-
--   Cadastro e verificação de motoristas independentes
--   Disponibilização de horários
--   Vinculação a rotas específicas
--   Gestão de capacidade de transporte
-
-**4. Módulo de Guias Turísticos**
-
--   Cadastro de guias
--   Disponibilização de horários
--   Vinculação a rotas específicas
-
-#### Fluxo Operacional
-
-1. **Criação de Rotas:** Agências criam rotas selecionando múltiplos pontos turísticos, definindo horários, associando motoristas e guias, e estabelecendo o número de vagas
-2. **Descoberta:** Turistas exploram atrativos, eventos e rotas disponíveis através do aplicativo
-3. **Reserva:** Ao clicar em uma rota, o turista visualiza todos os detalhes (horário, motorista, guia, vagas disponíveis, preço)
-4. **Pagamento:** Pagamento realizado diretamente na tela de detalhes da rota
-5. **Confirmação:** Vaga é ocupada automaticamente após pagamento confirmado
-6. **Execução:** No dia agendado, motorista e guia (se incluído) conduzem a rota conforme planejado
+Ao selecionar um pacote turístico e o pacote, o turista poderá ver uma lista de motoristas independentes disponíveis para o horário escolhido e selecionar um deles para o transporte. Caso nenhum esteja disponível, o turista poderá optar por aguardar ou escolher outro horário ou pacote turístico.
 
 ### Tecnologias utilizadas
 
 -   Flutter para desenvolvimento dos aplicativos móveis.
 -   SQLite para armazenamento local de dados e falsificação de login.
+
+### Observações
+
+Apenas o aplicativo para turistas será desenvolvido, com uma bottom navbar contendo as seções "Pontos turisticos", "Eventos" e "Rotas" e "Perfil".
